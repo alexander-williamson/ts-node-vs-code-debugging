@@ -1,0 +1,17 @@
+{
+  "name": "ts-node-vs-code-debugging",
+  "version": "1.0.0",
+  "description": "ts-node with VS Code F5 debugging",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd app && npm install",
+    "dev": "cd app && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
