@@ -13,6 +13,6 @@ npm run dev
 
 ## Debugging
 
-1. Open `main.ts` in VS Code and add a breakpoint
+1. Open `app/main.ts` in VS Code and add a breakpoint
 2. Press F5
 3. Profit
